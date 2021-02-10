@@ -136,3 +136,12 @@ venv_opencv/
 
 #faces
 faces/
+
+#comments
+comments/
+
+#npy
+*.npy
+
+#yml
+*.yml
